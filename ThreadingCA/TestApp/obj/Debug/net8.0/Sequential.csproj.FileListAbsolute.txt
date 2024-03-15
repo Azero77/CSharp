@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\ThreadingCA\TestApp\bin\Debug\net8.0\Sequential.exe
+C:\Azero\full-csharp\ThreadingCA\TestApp\bin\Debug\net8.0\Sequential.deps.json
+C:\Azero\full-csharp\ThreadingCA\TestApp\bin\Debug\net8.0\Sequential.runtimeconfig.json
+C:\Azero\full-csharp\ThreadingCA\TestApp\bin\Debug\net8.0\Sequential.dll
+C:\Azero\full-csharp\ThreadingCA\TestApp\bin\Debug\net8.0\Sequential.pdb
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\Sequential.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\Sequential.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\Sequential.AssemblyInfo.cs
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\Sequential.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\Sequential.dll
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\refint\Sequential.dll
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\Sequential.pdb
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\Sequential.genruntimeconfig.cache
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\ref\Sequential.dll

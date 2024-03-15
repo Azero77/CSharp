@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\bin\Debug\net8.0\NullableRefrenceTypes.exe
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\bin\Debug\net8.0\NullableRefrenceTypes.deps.json
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\bin\Debug\net8.0\NullableRefrenceTypes.runtimeconfig.json
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\bin\Debug\net8.0\NullableRefrenceTypes.dll
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\bin\Debug\net8.0\NullableRefrenceTypes.pdb
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\obj\Debug\net8.0\NullableRefrenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\obj\Debug\net8.0\NullableRefrenceTypes.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\obj\Debug\net8.0\NullableRefrenceTypes.AssemblyInfo.cs
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\obj\Debug\net8.0\NullableRefrenceTypes.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\obj\Debug\net8.0\NullableRefrenceTypes.dll
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\obj\Debug\net8.0\refint\NullableRefrenceTypes.dll
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\obj\Debug\net8.0\NullableRefrenceTypes.pdb
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\obj\Debug\net8.0\NullableRefrenceTypes.genruntimeconfig.cache
+C:\Azero\full-csharp\WorkingWithNull\NullableRefrenceTypes\obj\Debug\net8.0\ref\NullableRefrenceTypes.dll

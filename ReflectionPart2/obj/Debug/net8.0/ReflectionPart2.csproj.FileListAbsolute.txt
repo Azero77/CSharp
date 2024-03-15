@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\ReflectionPart2\bin\Debug\net8.0\ReflectionPart2.exe
+C:\Azero\full-csharp\ReflectionPart2\bin\Debug\net8.0\ReflectionPart2.deps.json
+C:\Azero\full-csharp\ReflectionPart2\bin\Debug\net8.0\ReflectionPart2.runtimeconfig.json
+C:\Azero\full-csharp\ReflectionPart2\bin\Debug\net8.0\ReflectionPart2.dll
+C:\Azero\full-csharp\ReflectionPart2\bin\Debug\net8.0\ReflectionPart2.pdb
+C:\Azero\full-csharp\ReflectionPart2\obj\Debug\net8.0\ReflectionPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\ReflectionPart2\obj\Debug\net8.0\ReflectionPart2.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\ReflectionPart2\obj\Debug\net8.0\ReflectionPart2.AssemblyInfo.cs
+C:\Azero\full-csharp\ReflectionPart2\obj\Debug\net8.0\ReflectionPart2.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\ReflectionPart2\obj\Debug\net8.0\ReflectionPart2.dll
+C:\Azero\full-csharp\ReflectionPart2\obj\Debug\net8.0\refint\ReflectionPart2.dll
+C:\Azero\full-csharp\ReflectionPart2\obj\Debug\net8.0\ReflectionPart2.pdb
+C:\Azero\full-csharp\ReflectionPart2\obj\Debug\net8.0\ReflectionPart2.genruntimeconfig.cache
+C:\Azero\full-csharp\ReflectionPart2\obj\Debug\net8.0\ref\ReflectionPart2.dll

@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\IOStream\StreamIO\bin\Debug\net8.0\StreamIO.exe
+C:\Azero\full-csharp\IOStream\StreamIO\bin\Debug\net8.0\StreamIO.deps.json
+C:\Azero\full-csharp\IOStream\StreamIO\bin\Debug\net8.0\StreamIO.runtimeconfig.json
+C:\Azero\full-csharp\IOStream\StreamIO\bin\Debug\net8.0\StreamIO.dll
+C:\Azero\full-csharp\IOStream\StreamIO\bin\Debug\net8.0\StreamIO.pdb
+C:\Azero\full-csharp\IOStream\StreamIO\obj\Debug\net8.0\StreamIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\IOStream\StreamIO\obj\Debug\net8.0\StreamIO.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\IOStream\StreamIO\obj\Debug\net8.0\StreamIO.AssemblyInfo.cs
+C:\Azero\full-csharp\IOStream\StreamIO\obj\Debug\net8.0\StreamIO.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\IOStream\StreamIO\obj\Debug\net8.0\StreamIO.dll
+C:\Azero\full-csharp\IOStream\StreamIO\obj\Debug\net8.0\refint\StreamIO.dll
+C:\Azero\full-csharp\IOStream\StreamIO\obj\Debug\net8.0\StreamIO.pdb
+C:\Azero\full-csharp\IOStream\StreamIO\obj\Debug\net8.0\StreamIO.genruntimeconfig.cache
+C:\Azero\full-csharp\IOStream\StreamIO\obj\Debug\net8.0\ref\StreamIO.dll

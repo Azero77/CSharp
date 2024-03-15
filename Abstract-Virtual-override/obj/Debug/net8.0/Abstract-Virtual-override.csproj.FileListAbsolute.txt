@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\Abstract-Virtual-override\obj\Debug\net8.0\Abstract-Virtual-override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\Abstract-Virtual-override\obj\Debug\net8.0\Abstract-Virtual-override.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\Abstract-Virtual-override\obj\Debug\net8.0\Abstract-Virtual-override.AssemblyInfo.cs
+C:\Azero\full-csharp\Abstract-Virtual-override\obj\Debug\net8.0\Abstract-Virtual-override.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\Abstract-Virtual-override\bin\Debug\net8.0\Abstract-Virtual-override.exe
+C:\Azero\full-csharp\Abstract-Virtual-override\bin\Debug\net8.0\Abstract-Virtual-override.deps.json
+C:\Azero\full-csharp\Abstract-Virtual-override\bin\Debug\net8.0\Abstract-Virtual-override.runtimeconfig.json
+C:\Azero\full-csharp\Abstract-Virtual-override\bin\Debug\net8.0\Abstract-Virtual-override.dll
+C:\Azero\full-csharp\Abstract-Virtual-override\bin\Debug\net8.0\Abstract-Virtual-override.pdb
+C:\Azero\full-csharp\Abstract-Virtual-override\obj\Debug\net8.0\Abstract-Virtual-override.dll
+C:\Azero\full-csharp\Abstract-Virtual-override\obj\Debug\net8.0\refint\Abstract-Virtual-override.dll
+C:\Azero\full-csharp\Abstract-Virtual-override\obj\Debug\net8.0\Abstract-Virtual-override.pdb
+C:\Azero\full-csharp\Abstract-Virtual-override\obj\Debug\net8.0\Abstract-Virtual-override.genruntimeconfig.cache
+C:\Azero\full-csharp\Abstract-Virtual-override\obj\Debug\net8.0\ref\Abstract-Virtual-override.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fifo.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Fifo.Lib": "1.0.0"
+        },
+        "runtime": {
+          "Fifo.ConsoleApp.dll": {}
+        }
+      },
+      "Fifo.Lib/1.0.0": {
+        "runtime": {
+          "Fifo.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fifo.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fifo.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

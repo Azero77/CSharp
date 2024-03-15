@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ParellelPrograming/1.0.0": {
+        "dependencies": {
+          "LongRunningVsShortRunningTasks": "1.0.0"
+        },
+        "runtime": {
+          "ParellelPrograming.dll": {}
+        }
+      },
+      "LongRunningVsShortRunningTasks/1.0.0": {
+        "runtime": {
+          "LongRunningVsShortRunningTasks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParellelPrograming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LongRunningVsShortRunningTasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

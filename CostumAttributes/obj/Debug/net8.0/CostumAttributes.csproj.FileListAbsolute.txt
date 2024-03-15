@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\CostumAttributes\bin\Debug\net8.0\CostumAttributes.exe
+C:\Azero\full-csharp\CostumAttributes\bin\Debug\net8.0\CostumAttributes.deps.json
+C:\Azero\full-csharp\CostumAttributes\bin\Debug\net8.0\CostumAttributes.runtimeconfig.json
+C:\Azero\full-csharp\CostumAttributes\bin\Debug\net8.0\CostumAttributes.dll
+C:\Azero\full-csharp\CostumAttributes\bin\Debug\net8.0\CostumAttributes.pdb
+C:\Azero\full-csharp\CostumAttributes\obj\Debug\net8.0\CostumAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\CostumAttributes\obj\Debug\net8.0\CostumAttributes.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\CostumAttributes\obj\Debug\net8.0\CostumAttributes.AssemblyInfo.cs
+C:\Azero\full-csharp\CostumAttributes\obj\Debug\net8.0\CostumAttributes.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\CostumAttributes\obj\Debug\net8.0\CostumAttributes.dll
+C:\Azero\full-csharp\CostumAttributes\obj\Debug\net8.0\refint\CostumAttributes.dll
+C:\Azero\full-csharp\CostumAttributes\obj\Debug\net8.0\CostumAttributes.pdb
+C:\Azero\full-csharp\CostumAttributes\obj\Debug\net8.0\CostumAttributes.genruntimeconfig.cache
+C:\Azero\full-csharp\CostumAttributes\obj\Debug\net8.0\ref\CostumAttributes.dll

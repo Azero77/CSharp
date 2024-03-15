@@ -1,0 +1,4 @@
+Serialization is the process of taking any object in your app and make it in another format(xml or json) for other apps to get
+familiar with the object and try to parse it (maybe app in another languages)....
+
+ex: converting an object(employee) to an a json for an api.

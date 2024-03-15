@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\Serialization\HttpClientExample\bin\Debug\net8.0\HttpClientExample.exe
+C:\Azero\full-csharp\Serialization\HttpClientExample\bin\Debug\net8.0\HttpClientExample.deps.json
+C:\Azero\full-csharp\Serialization\HttpClientExample\bin\Debug\net8.0\HttpClientExample.runtimeconfig.json
+C:\Azero\full-csharp\Serialization\HttpClientExample\bin\Debug\net8.0\HttpClientExample.dll
+C:\Azero\full-csharp\Serialization\HttpClientExample\bin\Debug\net8.0\HttpClientExample.pdb
+C:\Azero\full-csharp\Serialization\HttpClientExample\obj\Debug\net8.0\HttpClientExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\Serialization\HttpClientExample\obj\Debug\net8.0\HttpClientExample.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\Serialization\HttpClientExample\obj\Debug\net8.0\HttpClientExample.AssemblyInfo.cs
+C:\Azero\full-csharp\Serialization\HttpClientExample\obj\Debug\net8.0\HttpClientExample.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\Serialization\HttpClientExample\obj\Debug\net8.0\HttpClientExample.dll
+C:\Azero\full-csharp\Serialization\HttpClientExample\obj\Debug\net8.0\refint\HttpClientExample.dll
+C:\Azero\full-csharp\Serialization\HttpClientExample\obj\Debug\net8.0\HttpClientExample.pdb
+C:\Azero\full-csharp\Serialization\HttpClientExample\obj\Debug\net8.0\HttpClientExample.genruntimeconfig.cache
+C:\Azero\full-csharp\Serialization\HttpClientExample\obj\Debug\net8.0\ref\HttpClientExample.dll

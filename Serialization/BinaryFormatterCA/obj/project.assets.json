@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "XMLDeserialization/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "XMLSerializationCA": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/XMLDeserialization.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XMLDeserialization.dll": {}
+        }
+      },
+      "XMLSerializationCA/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/XMLSerializationCA.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XMLSerializationCA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XMLDeserialization/1.0.0": {
+      "type": "project",
+      "path": "../XMLDeserialization/XMLDeserialization.csproj",
+      "msbuildProject": "../XMLDeserialization/XMLDeserialization.csproj"
+    },
+    "XMLSerializationCA/1.0.0": {
+      "type": "project",
+      "path": "../XMLSerialization/XMLSerializationCA.csproj",
+      "msbuildProject": "../XMLSerialization/XMLSerializationCA.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "XMLDeserialization >= 1.0.0",
+      "XMLSerializationCA >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mazag\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Azero\\full-csharp\\Serialization\\BinaryFormatterCA\\BinaryFormatterCA.csproj",
+      "projectName": "BinaryFormatterCA",
+      "projectPath": "C:\\Azero\\full-csharp\\Serialization\\BinaryFormatterCA\\BinaryFormatterCA.csproj",
+      "packagesPath": "C:\\Users\\mazag\\.nuget\\packages\\",
+      "outputPath": "C:\\Azero\\full-csharp\\Serialization\\BinaryFormatterCA\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mazag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Azero\\full-csharp\\Serialization\\XMLDeserialization\\XMLDeserialization.csproj": {
+              "projectPath": "C:\\Azero\\full-csharp\\Serialization\\XMLDeserialization\\XMLDeserialization.csproj"
+            },
+            "C:\\Azero\\full-csharp\\Serialization\\XMLSerialization\\XMLSerializationCA.csproj": {
+              "projectPath": "C:\\Azero\\full-csharp\\Serialization\\XMLSerialization\\XMLSerializationCA.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

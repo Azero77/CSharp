@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\Extensions\Externsions\bin\Debug\net8.0\Externsions.exe
+C:\Azero\full-csharp\Extensions\Externsions\bin\Debug\net8.0\Externsions.deps.json
+C:\Azero\full-csharp\Extensions\Externsions\bin\Debug\net8.0\Externsions.runtimeconfig.json
+C:\Azero\full-csharp\Extensions\Externsions\bin\Debug\net8.0\Externsions.dll
+C:\Azero\full-csharp\Extensions\Externsions\bin\Debug\net8.0\Externsions.pdb
+C:\Azero\full-csharp\Extensions\Externsions\obj\Debug\net8.0\Externsions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\Extensions\Externsions\obj\Debug\net8.0\Externsions.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\Extensions\Externsions\obj\Debug\net8.0\Externsions.AssemblyInfo.cs
+C:\Azero\full-csharp\Extensions\Externsions\obj\Debug\net8.0\Externsions.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\Extensions\Externsions\obj\Debug\net8.0\Externsions.dll
+C:\Azero\full-csharp\Extensions\Externsions\obj\Debug\net8.0\refint\Externsions.dll
+C:\Azero\full-csharp\Extensions\Externsions\obj\Debug\net8.0\Externsions.pdb
+C:\Azero\full-csharp\Extensions\Externsions\obj\Debug\net8.0\Externsions.genruntimeconfig.cache
+C:\Azero\full-csharp\Extensions\Externsions\obj\Debug\net8.0\ref\Externsions.dll

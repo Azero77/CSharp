@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\bin\Debug\net8.0\Project1.exe
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\bin\Debug\net8.0\Project1.deps.json
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\bin\Debug\net8.0\Project1.runtimeconfig.json
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\bin\Debug\net8.0\Project1.dll
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\bin\Debug\net8.0\Project1.pdb
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\obj\Debug\net8.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\obj\Debug\net8.0\Project1.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\obj\Debug\net8.0\Project1.AssemblyInfo.cs
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\obj\Debug\net8.0\Project1.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\obj\Debug\net8.0\Project1.dll
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\obj\Debug\net8.0\refint\Project1.dll
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\obj\Debug\net8.0\Project1.pdb
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\obj\Debug\net8.0\Project1.genruntimeconfig.cache
+C:\Azero\full-csharp\NameSpacesAndUsing\Project1\obj\Debug\net8.0\ref\Project1.dll

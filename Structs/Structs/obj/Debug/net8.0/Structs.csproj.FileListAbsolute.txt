@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\Structs\Structs\bin\Debug\net8.0\Structs.exe
+C:\Azero\full-csharp\Structs\Structs\bin\Debug\net8.0\Structs.deps.json
+C:\Azero\full-csharp\Structs\Structs\bin\Debug\net8.0\Structs.runtimeconfig.json
+C:\Azero\full-csharp\Structs\Structs\bin\Debug\net8.0\Structs.dll
+C:\Azero\full-csharp\Structs\Structs\bin\Debug\net8.0\Structs.pdb
+C:\Azero\full-csharp\Structs\Structs\obj\Debug\net8.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\Structs\Structs\obj\Debug\net8.0\Structs.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\Structs\Structs\obj\Debug\net8.0\Structs.AssemblyInfo.cs
+C:\Azero\full-csharp\Structs\Structs\obj\Debug\net8.0\Structs.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\Structs\Structs\obj\Debug\net8.0\Structs.dll
+C:\Azero\full-csharp\Structs\Structs\obj\Debug\net8.0\refint\Structs.dll
+C:\Azero\full-csharp\Structs\Structs\obj\Debug\net8.0\Structs.pdb
+C:\Azero\full-csharp\Structs\Structs\obj\Debug\net8.0\Structs.genruntimeconfig.cache
+C:\Azero\full-csharp\Structs\Structs\obj\Debug\net8.0\ref\Structs.dll

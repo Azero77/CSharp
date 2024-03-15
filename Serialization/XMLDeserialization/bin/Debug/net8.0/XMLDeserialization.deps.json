@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "XMLDeserialization/1.0.0": {
+        "dependencies": {
+          "XMLSerializationCA": "1.0.0"
+        },
+        "runtime": {
+          "XMLDeserialization.dll": {}
+        }
+      },
+      "XMLSerializationCA/1.0.0": {
+        "runtime": {
+          "XMLSerializationCA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XMLDeserialization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XMLSerializationCA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

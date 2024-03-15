@@ -1,0 +1,16 @@
+C# is a programming language while .NET is a FrameWork
+
+-->.NET
+	is a framework that can be used in many languages like c#,f#,VB.NET...
+	And it consist of two main components:
+		1- CLR(common language runtime)
+		2- Class Library
+--> CLR
+	when we write apps with c/c++ for example...
+	the c compiler will compile this code into machine code (zero and one) but it can't be 	run only by this piece of hardware and os...
+	but when dealing with c#(or F# , VB.NET...) we can compile our code into something 	called "Itermediate Language" or "IL" and then the CLR in the client pc will compile 	it into machine code for the specific machine he using ...
+	so i can write any program in C# in windows and a client can run it while he has
+	linux os as long as he has CLR
+	so:
+		CLR is an application whose purpose is to compile IL into Machine code
+	

@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\DatetimeExp\bin\Debug\net8.0\DatetimeExp.exe
+C:\Azero\full-csharp\DatetimeExp\bin\Debug\net8.0\DatetimeExp.deps.json
+C:\Azero\full-csharp\DatetimeExp\bin\Debug\net8.0\DatetimeExp.runtimeconfig.json
+C:\Azero\full-csharp\DatetimeExp\bin\Debug\net8.0\DatetimeExp.dll
+C:\Azero\full-csharp\DatetimeExp\bin\Debug\net8.0\DatetimeExp.pdb
+C:\Azero\full-csharp\DatetimeExp\obj\Debug\net8.0\DatetimeExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\DatetimeExp\obj\Debug\net8.0\DatetimeExp.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\DatetimeExp\obj\Debug\net8.0\DatetimeExp.AssemblyInfo.cs
+C:\Azero\full-csharp\DatetimeExp\obj\Debug\net8.0\DatetimeExp.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\DatetimeExp\obj\Debug\net8.0\DatetimeExp.dll
+C:\Azero\full-csharp\DatetimeExp\obj\Debug\net8.0\refint\DatetimeExp.dll
+C:\Azero\full-csharp\DatetimeExp\obj\Debug\net8.0\DatetimeExp.pdb
+C:\Azero\full-csharp\DatetimeExp\obj\Debug\net8.0\DatetimeExp.genruntimeconfig.cache
+C:\Azero\full-csharp\DatetimeExp\obj\Debug\net8.0\ref\DatetimeExp.dll

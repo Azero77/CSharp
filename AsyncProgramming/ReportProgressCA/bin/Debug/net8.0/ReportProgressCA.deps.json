@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReportProgressCA/1.0.0": {
+        "runtime": {
+          "ReportProgressCA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReportProgressCA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

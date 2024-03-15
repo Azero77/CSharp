@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.ConsoleApp\\Fifo.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.Cars\\Fifo.Cars.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.Cars\\Fifo.Cars.csproj",
+        "projectName": "Fifo.Cars",
+        "projectPath": "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.Cars\\Fifo.Cars.csproj",
+        "packagesPath": "C:\\Users\\mazag\\.nuget\\packages\\",
+        "outputPath": "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.Cars\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mazag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.ConsoleApp\\Fifo.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.ConsoleApp\\Fifo.ConsoleApp.csproj",
+        "projectName": "Fifo.ConsoleApp",
+        "projectPath": "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.ConsoleApp\\Fifo.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\mazag\\.nuget\\packages\\",
+        "outputPath": "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mazag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.Cars\\Fifo.Cars.csproj": {
+                "projectPath": "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.Cars\\Fifo.Cars.csproj"
+              },
+              "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.Lib\\Fifo.Lib.csproj": {
+                "projectPath": "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.Lib\\Fifo.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.Lib\\Fifo.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.Lib\\Fifo.Lib.csproj",
+        "projectName": "Fifo.Lib",
+        "projectPath": "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.Lib\\Fifo.Lib.csproj",
+        "packagesPath": "C:\\Users\\mazag\\.nuget\\packages\\",
+        "outputPath": "C:\\Azero\\full-csharp\\ExpSolution\\Fifo\\Fifo.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mazag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

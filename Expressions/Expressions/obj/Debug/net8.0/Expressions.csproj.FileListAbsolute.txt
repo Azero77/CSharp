@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\Expressions\Expressions\bin\Debug\net8.0\Expressions.exe
+C:\Azero\full-csharp\Expressions\Expressions\bin\Debug\net8.0\Expressions.deps.json
+C:\Azero\full-csharp\Expressions\Expressions\bin\Debug\net8.0\Expressions.runtimeconfig.json
+C:\Azero\full-csharp\Expressions\Expressions\bin\Debug\net8.0\Expressions.dll
+C:\Azero\full-csharp\Expressions\Expressions\bin\Debug\net8.0\Expressions.pdb
+C:\Azero\full-csharp\Expressions\Expressions\obj\Debug\net8.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\Expressions\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\Expressions\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfo.cs
+C:\Azero\full-csharp\Expressions\Expressions\obj\Debug\net8.0\Expressions.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\Expressions\Expressions\obj\Debug\net8.0\Expressions.dll
+C:\Azero\full-csharp\Expressions\Expressions\obj\Debug\net8.0\refint\Expressions.dll
+C:\Azero\full-csharp\Expressions\Expressions\obj\Debug\net8.0\Expressions.pdb
+C:\Azero\full-csharp\Expressions\Expressions\obj\Debug\net8.0\Expressions.genruntimeconfig.cache
+C:\Azero\full-csharp\Expressions\Expressions\obj\Debug\net8.0\ref\Expressions.dll

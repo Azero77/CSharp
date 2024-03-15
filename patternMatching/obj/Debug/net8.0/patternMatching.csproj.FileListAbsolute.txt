@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\patternMatching\obj\Debug\net8.0\patternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\patternMatching\obj\Debug\net8.0\patternMatching.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\patternMatching\obj\Debug\net8.0\patternMatching.AssemblyInfo.cs
+C:\Azero\full-csharp\patternMatching\obj\Debug\net8.0\patternMatching.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\patternMatching\bin\Debug\net8.0\patternMatching.exe
+C:\Azero\full-csharp\patternMatching\bin\Debug\net8.0\patternMatching.deps.json
+C:\Azero\full-csharp\patternMatching\bin\Debug\net8.0\patternMatching.runtimeconfig.json
+C:\Azero\full-csharp\patternMatching\bin\Debug\net8.0\patternMatching.dll
+C:\Azero\full-csharp\patternMatching\bin\Debug\net8.0\patternMatching.pdb
+C:\Azero\full-csharp\patternMatching\obj\Debug\net8.0\patternMatching.dll
+C:\Azero\full-csharp\patternMatching\obj\Debug\net8.0\refint\patternMatching.dll
+C:\Azero\full-csharp\patternMatching\obj\Debug\net8.0\patternMatching.pdb
+C:\Azero\full-csharp\patternMatching\obj\Debug\net8.0\patternMatching.genruntimeconfig.cache
+C:\Azero\full-csharp\patternMatching\obj\Debug\net8.0\ref\patternMatching.dll

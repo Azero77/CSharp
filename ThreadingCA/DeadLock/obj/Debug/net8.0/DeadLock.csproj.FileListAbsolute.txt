@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\ThreadingCA\DeadLock\bin\Debug\net8.0\DeadLock.exe
+C:\Azero\full-csharp\ThreadingCA\DeadLock\bin\Debug\net8.0\DeadLock.deps.json
+C:\Azero\full-csharp\ThreadingCA\DeadLock\bin\Debug\net8.0\DeadLock.runtimeconfig.json
+C:\Azero\full-csharp\ThreadingCA\DeadLock\bin\Debug\net8.0\DeadLock.dll
+C:\Azero\full-csharp\ThreadingCA\DeadLock\bin\Debug\net8.0\DeadLock.pdb
+C:\Azero\full-csharp\ThreadingCA\DeadLock\obj\Debug\net8.0\DeadLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\ThreadingCA\DeadLock\obj\Debug\net8.0\DeadLock.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\ThreadingCA\DeadLock\obj\Debug\net8.0\DeadLock.AssemblyInfo.cs
+C:\Azero\full-csharp\ThreadingCA\DeadLock\obj\Debug\net8.0\DeadLock.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\ThreadingCA\DeadLock\obj\Debug\net8.0\DeadLock.dll
+C:\Azero\full-csharp\ThreadingCA\DeadLock\obj\Debug\net8.0\refint\DeadLock.dll
+C:\Azero\full-csharp\ThreadingCA\DeadLock\obj\Debug\net8.0\DeadLock.pdb
+C:\Azero\full-csharp\ThreadingCA\DeadLock\obj\Debug\net8.0\DeadLock.genruntimeconfig.cache
+C:\Azero\full-csharp\ThreadingCA\DeadLock\obj\Debug\net8.0\ref\DeadLock.dll

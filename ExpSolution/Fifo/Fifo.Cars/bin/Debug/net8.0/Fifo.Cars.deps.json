@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fifo.Cars/1.0.0": {
+        "runtime": {
+          "Fifo.Cars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fifo.Cars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

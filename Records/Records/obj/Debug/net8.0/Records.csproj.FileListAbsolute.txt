@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\Records\Records\obj\Debug\net8.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\Records\Records\obj\Debug\net8.0\Records.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\Records\Records\obj\Debug\net8.0\Records.AssemblyInfo.cs
+C:\Azero\full-csharp\Records\Records\obj\Debug\net8.0\Records.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\Records\Records\bin\Debug\net8.0\Records.exe
+C:\Azero\full-csharp\Records\Records\bin\Debug\net8.0\Records.deps.json
+C:\Azero\full-csharp\Records\Records\bin\Debug\net8.0\Records.runtimeconfig.json
+C:\Azero\full-csharp\Records\Records\bin\Debug\net8.0\Records.dll
+C:\Azero\full-csharp\Records\Records\bin\Debug\net8.0\Records.pdb
+C:\Azero\full-csharp\Records\Records\obj\Debug\net8.0\Records.dll
+C:\Azero\full-csharp\Records\Records\obj\Debug\net8.0\refint\Records.dll
+C:\Azero\full-csharp\Records\Records\obj\Debug\net8.0\Records.pdb
+C:\Azero\full-csharp\Records\Records\obj\Debug\net8.0\Records.genruntimeconfig.cache
+C:\Azero\full-csharp\Records\Records\obj\Debug\net8.0\ref\Records.dll

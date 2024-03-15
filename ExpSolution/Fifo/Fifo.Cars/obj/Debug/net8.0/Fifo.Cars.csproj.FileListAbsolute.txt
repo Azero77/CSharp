@@ -1,0 +1,11 @@
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Cars\bin\Debug\net8.0\Fifo.Cars.deps.json
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Cars\bin\Debug\net8.0\Fifo.Cars.dll
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Cars\bin\Debug\net8.0\Fifo.Cars.pdb
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Cars\obj\Debug\net8.0\Fifo.Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Cars\obj\Debug\net8.0\Fifo.Cars.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Cars\obj\Debug\net8.0\Fifo.Cars.AssemblyInfo.cs
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Cars\obj\Debug\net8.0\Fifo.Cars.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Cars\obj\Debug\net8.0\Fifo.Cars.dll
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Cars\obj\Debug\net8.0\refint\Fifo.Cars.dll
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Cars\obj\Debug\net8.0\Fifo.Cars.pdb
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Cars\obj\Debug\net8.0\ref\Fifo.Cars.dll

@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\dictionary_con\bin\Debug\net8.0\dictionary_con.exe
+C:\Azero\full-csharp\dictionary_con\bin\Debug\net8.0\dictionary_con.deps.json
+C:\Azero\full-csharp\dictionary_con\bin\Debug\net8.0\dictionary_con.runtimeconfig.json
+C:\Azero\full-csharp\dictionary_con\bin\Debug\net8.0\dictionary_con.dll
+C:\Azero\full-csharp\dictionary_con\bin\Debug\net8.0\dictionary_con.pdb
+C:\Azero\full-csharp\dictionary_con\obj\Debug\net8.0\dictionary_con.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\dictionary_con\obj\Debug\net8.0\dictionary_con.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\dictionary_con\obj\Debug\net8.0\dictionary_con.AssemblyInfo.cs
+C:\Azero\full-csharp\dictionary_con\obj\Debug\net8.0\dictionary_con.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\dictionary_con\obj\Debug\net8.0\dictionary_con.dll
+C:\Azero\full-csharp\dictionary_con\obj\Debug\net8.0\refint\dictionary_con.dll
+C:\Azero\full-csharp\dictionary_con\obj\Debug\net8.0\dictionary_con.pdb
+C:\Azero\full-csharp\dictionary_con\obj\Debug\net8.0\dictionary_con.genruntimeconfig.cache
+C:\Azero\full-csharp\dictionary_con\obj\Debug\net8.0\ref\dictionary_con.dll

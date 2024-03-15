@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{431E1AA6-5ED5-4587-8CAD-AFB3F8CA8F58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamIO", "StreamIO\StreamIO.csproj", "{877C84F6-B067-42B5-BAE4-9CA38AE44D40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431E1AA6-5ED5-4587-8CAD-AFB3F8CA8F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431E1AA6-5ED5-4587-8CAD-AFB3F8CA8F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431E1AA6-5ED5-4587-8CAD-AFB3F8CA8F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431E1AA6-5ED5-4587-8CAD-AFB3F8CA8F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877C84F6-B067-42B5-BAE4-9CA38AE44D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877C84F6-B067-42B5-BAE4-9CA38AE44D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877C84F6-B067-42B5-BAE4-9CA38AE44D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877C84F6-B067-42B5-BAE4-9CA38AE44D40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE38C49-B510-47C8-A86C-1981EFD1B289}
+	EndGlobalSection
+EndGlobal

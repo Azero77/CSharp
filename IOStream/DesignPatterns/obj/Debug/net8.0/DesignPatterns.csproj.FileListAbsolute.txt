@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\IOStream\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\IOStream\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\IOStream\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfo.cs
+C:\Azero\full-csharp\IOStream\DesignPatterns\obj\Debug\net8.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\IOStream\DesignPatterns\bin\Debug\net8.0\DesignPatterns.exe
+C:\Azero\full-csharp\IOStream\DesignPatterns\bin\Debug\net8.0\DesignPatterns.deps.json
+C:\Azero\full-csharp\IOStream\DesignPatterns\bin\Debug\net8.0\DesignPatterns.runtimeconfig.json
+C:\Azero\full-csharp\IOStream\DesignPatterns\bin\Debug\net8.0\DesignPatterns.dll
+C:\Azero\full-csharp\IOStream\DesignPatterns\bin\Debug\net8.0\DesignPatterns.pdb
+C:\Azero\full-csharp\IOStream\DesignPatterns\obj\Debug\net8.0\DesignPatterns.dll
+C:\Azero\full-csharp\IOStream\DesignPatterns\obj\Debug\net8.0\refint\DesignPatterns.dll
+C:\Azero\full-csharp\IOStream\DesignPatterns\obj\Debug\net8.0\DesignPatterns.pdb
+C:\Azero\full-csharp\IOStream\DesignPatterns\obj\Debug\net8.0\DesignPatterns.genruntimeconfig.cache
+C:\Azero\full-csharp\IOStream\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll

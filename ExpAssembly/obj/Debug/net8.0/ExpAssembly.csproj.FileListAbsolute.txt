@@ -1,0 +1,15 @@
+C:\Azero\full-csharp\ExpAssembly\bin\Debug\net8.0\ExpAssembly.exe
+C:\Azero\full-csharp\ExpAssembly\bin\Debug\net8.0\ExpAssembly.deps.json
+C:\Azero\full-csharp\ExpAssembly\bin\Debug\net8.0\ExpAssembly.runtimeconfig.json
+C:\Azero\full-csharp\ExpAssembly\bin\Debug\net8.0\ExpAssembly.dll
+C:\Azero\full-csharp\ExpAssembly\bin\Debug\net8.0\ExpAssembly.pdb
+C:\Azero\full-csharp\ExpAssembly\obj\Debug\net8.0\ExpAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\ExpAssembly\obj\Debug\net8.0\ExpAssembly.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\ExpAssembly\obj\Debug\net8.0\ExpAssembly.AssemblyInfo.cs
+C:\Azero\full-csharp\ExpAssembly\obj\Debug\net8.0\ExpAssembly.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\ExpAssembly\obj\Debug\net8.0\ExpAssembly.dll
+C:\Azero\full-csharp\ExpAssembly\obj\Debug\net8.0\refint\ExpAssembly.dll
+C:\Azero\full-csharp\ExpAssembly\obj\Debug\net8.0\ExpAssembly.pdb
+C:\Azero\full-csharp\ExpAssembly\obj\Debug\net8.0\ExpAssembly.genruntimeconfig.cache
+C:\Azero\full-csharp\ExpAssembly\obj\Debug\net8.0\ref\ExpAssembly.dll
+C:\Azero\full-csharp\ExpAssembly\bin\Debug\net8.0\data\Countries.json

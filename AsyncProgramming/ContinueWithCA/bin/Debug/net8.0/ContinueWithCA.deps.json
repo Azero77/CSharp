@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ContinueWithCA/1.0.0": {
+        "dependencies": {
+          "CA01ThreadsVsTasks": "1.0.0"
+        },
+        "runtime": {
+          "ContinueWithCA.dll": {}
+        }
+      },
+      "CA01ThreadsVsTasks/1.0.0": {
+        "runtime": {
+          "CA01ThreadsVsTasks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContinueWithCA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CA01ThreadsVsTasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

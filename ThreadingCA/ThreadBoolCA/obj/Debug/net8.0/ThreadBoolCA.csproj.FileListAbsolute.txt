@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\bin\Debug\net8.0\ThreadBoolCA.exe
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\bin\Debug\net8.0\ThreadBoolCA.deps.json
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\bin\Debug\net8.0\ThreadBoolCA.runtimeconfig.json
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\bin\Debug\net8.0\ThreadBoolCA.dll
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\bin\Debug\net8.0\ThreadBoolCA.pdb
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\obj\Debug\net8.0\ThreadBoolCA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\obj\Debug\net8.0\ThreadBoolCA.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\obj\Debug\net8.0\ThreadBoolCA.AssemblyInfo.cs
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\obj\Debug\net8.0\ThreadBoolCA.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\obj\Debug\net8.0\ThreadBoolCA.dll
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\obj\Debug\net8.0\refint\ThreadBoolCA.dll
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\obj\Debug\net8.0\ThreadBoolCA.pdb
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\obj\Debug\net8.0\ThreadBoolCA.genruntimeconfig.cache
+C:\Azero\full-csharp\ThreadingCA\ThreadBoolCA\obj\Debug\net8.0\ref\ThreadBoolCA.dll

@@ -1,0 +1,5 @@
+C:\Azero\full-csharp\Serialization\BinaryFormatterCA\obj\Debug\net8.0\BinaryFormatterCA.csproj.AssemblyReference.cache
+C:\Azero\full-csharp\Serialization\BinaryFormatterCA\obj\Debug\net8.0\BinaryFormatterCA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\Serialization\BinaryFormatterCA\obj\Debug\net8.0\BinaryFormatterCA.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\Serialization\BinaryFormatterCA\obj\Debug\net8.0\BinaryFormatterCA.AssemblyInfo.cs
+C:\Azero\full-csharp\Serialization\BinaryFormatterCA\obj\Debug\net8.0\BinaryFormatterCA.csproj.CoreCompileInputs.cache

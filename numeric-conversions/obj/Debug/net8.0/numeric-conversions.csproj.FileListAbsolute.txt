@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\numeric-conversions\bin\Debug\net8.0\numeric-conversions.exe
+C:\Azero\full-csharp\numeric-conversions\bin\Debug\net8.0\numeric-conversions.deps.json
+C:\Azero\full-csharp\numeric-conversions\bin\Debug\net8.0\numeric-conversions.runtimeconfig.json
+C:\Azero\full-csharp\numeric-conversions\bin\Debug\net8.0\numeric-conversions.dll
+C:\Azero\full-csharp\numeric-conversions\bin\Debug\net8.0\numeric-conversions.pdb
+C:\Azero\full-csharp\numeric-conversions\obj\Debug\net8.0\numeric-conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\numeric-conversions\obj\Debug\net8.0\numeric-conversions.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\numeric-conversions\obj\Debug\net8.0\numeric-conversions.AssemblyInfo.cs
+C:\Azero\full-csharp\numeric-conversions\obj\Debug\net8.0\numeric-conversions.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\numeric-conversions\obj\Debug\net8.0\numeric-conversions.dll
+C:\Azero\full-csharp\numeric-conversions\obj\Debug\net8.0\refint\numeric-conversions.dll
+C:\Azero\full-csharp\numeric-conversions\obj\Debug\net8.0\numeric-conversions.pdb
+C:\Azero\full-csharp\numeric-conversions\obj\Debug\net8.0\numeric-conversions.genruntimeconfig.cache
+C:\Azero\full-csharp\numeric-conversions\obj\Debug\net8.0\ref\numeric-conversions.dll

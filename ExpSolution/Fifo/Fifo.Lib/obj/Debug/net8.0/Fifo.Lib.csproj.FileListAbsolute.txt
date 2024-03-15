@@ -1,0 +1,11 @@
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Lib\bin\Debug\net8.0\Fifo.Lib.deps.json
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Lib\bin\Debug\net8.0\Fifo.Lib.dll
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Lib\bin\Debug\net8.0\Fifo.Lib.pdb
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Lib\obj\Debug\net8.0\Fifo.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Lib\obj\Debug\net8.0\Fifo.Lib.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Lib\obj\Debug\net8.0\Fifo.Lib.AssemblyInfo.cs
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Lib\obj\Debug\net8.0\Fifo.Lib.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Lib\obj\Debug\net8.0\Fifo.Lib.dll
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Lib\obj\Debug\net8.0\refint\Fifo.Lib.dll
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Lib\obj\Debug\net8.0\Fifo.Lib.pdb
+C:\Azero\full-csharp\ExpSolution\Fifo\Fifo.Lib\obj\Debug\net8.0\ref\Fifo.Lib.dll

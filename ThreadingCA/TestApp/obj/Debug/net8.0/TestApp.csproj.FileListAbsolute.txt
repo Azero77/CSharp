@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\ThreadingCA\TestApp\bin\Debug\net8.0\TestApp.exe
+C:\Azero\full-csharp\ThreadingCA\TestApp\bin\Debug\net8.0\TestApp.deps.json
+C:\Azero\full-csharp\ThreadingCA\TestApp\bin\Debug\net8.0\TestApp.runtimeconfig.json
+C:\Azero\full-csharp\ThreadingCA\TestApp\bin\Debug\net8.0\TestApp.dll
+C:\Azero\full-csharp\ThreadingCA\TestApp\bin\Debug\net8.0\TestApp.pdb
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfo.cs
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\TestApp.dll
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\refint\TestApp.dll
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\TestApp.pdb
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\TestApp.genruntimeconfig.cache
+C:\Azero\full-csharp\ThreadingCA\TestApp\obj\Debug\net8.0\ref\TestApp.dll

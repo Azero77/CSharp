@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\Delegates\obj\Debug\net8.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\Delegates\obj\Debug\net8.0\Delegates.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\Delegates\obj\Debug\net8.0\Delegates.AssemblyInfo.cs
+C:\Azero\full-csharp\Delegates\obj\Debug\net8.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\Delegates\bin\Debug\net8.0\Delegates.exe
+C:\Azero\full-csharp\Delegates\bin\Debug\net8.0\Delegates.deps.json
+C:\Azero\full-csharp\Delegates\bin\Debug\net8.0\Delegates.runtimeconfig.json
+C:\Azero\full-csharp\Delegates\bin\Debug\net8.0\Delegates.dll
+C:\Azero\full-csharp\Delegates\bin\Debug\net8.0\Delegates.pdb
+C:\Azero\full-csharp\Delegates\obj\Debug\net8.0\Delegates.dll
+C:\Azero\full-csharp\Delegates\obj\Debug\net8.0\refint\Delegates.dll
+C:\Azero\full-csharp\Delegates\obj\Debug\net8.0\Delegates.pdb
+C:\Azero\full-csharp\Delegates\obj\Debug\net8.0\Delegates.genruntimeconfig.cache
+C:\Azero\full-csharp\Delegates\obj\Debug\net8.0\ref\Delegates.dll

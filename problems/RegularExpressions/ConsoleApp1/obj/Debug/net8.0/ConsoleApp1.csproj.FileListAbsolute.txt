@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Azero\full-csharp\problems\RegularExpressions\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

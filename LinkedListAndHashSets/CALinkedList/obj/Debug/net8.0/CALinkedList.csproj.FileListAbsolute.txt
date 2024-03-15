@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\bin\Debug\net8.0\CALinkedList.exe
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\bin\Debug\net8.0\CALinkedList.deps.json
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\bin\Debug\net8.0\CALinkedList.runtimeconfig.json
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\bin\Debug\net8.0\CALinkedList.dll
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\bin\Debug\net8.0\CALinkedList.pdb
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\obj\Debug\net8.0\CALinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\obj\Debug\net8.0\CALinkedList.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\obj\Debug\net8.0\CALinkedList.AssemblyInfo.cs
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\obj\Debug\net8.0\CALinkedList.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\obj\Debug\net8.0\CALinkedList.dll
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\obj\Debug\net8.0\refint\CALinkedList.dll
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\obj\Debug\net8.0\CALinkedList.pdb
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\obj\Debug\net8.0\CALinkedList.genruntimeconfig.cache
+C:\Azero\full-csharp\LinkedListAndHashSets\CALinkedList\obj\Debug\net8.0\ref\CALinkedList.dll

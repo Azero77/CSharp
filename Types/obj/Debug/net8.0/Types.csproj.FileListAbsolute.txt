@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\Types\obj\Debug\net8.0\Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\Types\obj\Debug\net8.0\Types.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\Types\obj\Debug\net8.0\Types.AssemblyInfo.cs
+C:\Azero\full-csharp\Types\obj\Debug\net8.0\Types.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\Types\bin\Debug\net8.0\Types.exe
+C:\Azero\full-csharp\Types\bin\Debug\net8.0\Types.deps.json
+C:\Azero\full-csharp\Types\bin\Debug\net8.0\Types.runtimeconfig.json
+C:\Azero\full-csharp\Types\bin\Debug\net8.0\Types.dll
+C:\Azero\full-csharp\Types\bin\Debug\net8.0\Types.pdb
+C:\Azero\full-csharp\Types\obj\Debug\net8.0\Types.dll
+C:\Azero\full-csharp\Types\obj\Debug\net8.0\refint\Types.dll
+C:\Azero\full-csharp\Types\obj\Debug\net8.0\Types.pdb
+C:\Azero\full-csharp\Types\obj\Debug\net8.0\Types.genruntimeconfig.cache
+C:\Azero\full-csharp\Types\obj\Debug\net8.0\ref\Types.dll

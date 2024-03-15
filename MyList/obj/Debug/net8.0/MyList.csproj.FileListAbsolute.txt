@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\MyList\bin\Debug\net8.0\MyList.exe
+C:\Azero\full-csharp\MyList\bin\Debug\net8.0\MyList.deps.json
+C:\Azero\full-csharp\MyList\bin\Debug\net8.0\MyList.runtimeconfig.json
+C:\Azero\full-csharp\MyList\bin\Debug\net8.0\MyList.dll
+C:\Azero\full-csharp\MyList\bin\Debug\net8.0\MyList.pdb
+C:\Azero\full-csharp\MyList\obj\Debug\net8.0\MyList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\MyList\obj\Debug\net8.0\MyList.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\MyList\obj\Debug\net8.0\MyList.AssemblyInfo.cs
+C:\Azero\full-csharp\MyList\obj\Debug\net8.0\MyList.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\MyList\obj\Debug\net8.0\MyList.dll
+C:\Azero\full-csharp\MyList\obj\Debug\net8.0\refint\MyList.dll
+C:\Azero\full-csharp\MyList\obj\Debug\net8.0\MyList.pdb
+C:\Azero\full-csharp\MyList\obj\Debug\net8.0\MyList.genruntimeconfig.cache
+C:\Azero\full-csharp\MyList\obj\Debug\net8.0\ref\MyList.dll

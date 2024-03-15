@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\Events\bin\Debug\net8.0\Events.exe
+C:\Azero\full-csharp\Events\bin\Debug\net8.0\Events.deps.json
+C:\Azero\full-csharp\Events\bin\Debug\net8.0\Events.runtimeconfig.json
+C:\Azero\full-csharp\Events\bin\Debug\net8.0\Events.dll
+C:\Azero\full-csharp\Events\bin\Debug\net8.0\Events.pdb
+C:\Azero\full-csharp\Events\obj\Debug\net8.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\Events\obj\Debug\net8.0\Events.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\Events\obj\Debug\net8.0\Events.AssemblyInfo.cs
+C:\Azero\full-csharp\Events\obj\Debug\net8.0\Events.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\Events\obj\Debug\net8.0\Events.dll
+C:\Azero\full-csharp\Events\obj\Debug\net8.0\refint\Events.dll
+C:\Azero\full-csharp\Events\obj\Debug\net8.0\Events.pdb
+C:\Azero\full-csharp\Events\obj\Debug\net8.0\Events.genruntimeconfig.cache
+C:\Azero\full-csharp\Events\obj\Debug\net8.0\ref\Events.dll

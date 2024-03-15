@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\bin\Debug\net8.0\LongRunningVsShortRunningTasks.exe
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\bin\Debug\net8.0\LongRunningVsShortRunningTasks.deps.json
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\bin\Debug\net8.0\LongRunningVsShortRunningTasks.runtimeconfig.json
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\bin\Debug\net8.0\LongRunningVsShortRunningTasks.dll
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\bin\Debug\net8.0\LongRunningVsShortRunningTasks.pdb
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\obj\Debug\net8.0\LongRunningVsShortRunningTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\obj\Debug\net8.0\LongRunningVsShortRunningTasks.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\obj\Debug\net8.0\LongRunningVsShortRunningTasks.AssemblyInfo.cs
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\obj\Debug\net8.0\LongRunningVsShortRunningTasks.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\obj\Debug\net8.0\LongRunningVsShortRunningTasks.dll
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\obj\Debug\net8.0\refint\LongRunningVsShortRunningTasks.dll
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\obj\Debug\net8.0\LongRunningVsShortRunningTasks.pdb
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\obj\Debug\net8.0\LongRunningVsShortRunningTasks.genruntimeconfig.cache
+C:\Azero\full-csharp\AsyncProgramming\LongRunningVsShortRunningTasks\obj\Debug\net8.0\ref\LongRunningVsShortRunningTasks.dll

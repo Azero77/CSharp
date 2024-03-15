@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Azero\full-csharp\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Azero\full-csharp\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Azero\full-csharp\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Azero\full-csharp\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Azero\full-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Azero\full-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Azero\full-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Azero\full-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Azero\full-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Azero\full-csharp\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

@@ -1,0 +1,14 @@
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\obj\Debug\net8.0\MetigatorCA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\obj\Debug\net8.0\MetigatorCA.AssemblyInfoInputs.cache
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\obj\Debug\net8.0\MetigatorCA.AssemblyInfo.cs
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\obj\Debug\net8.0\MetigatorCA.csproj.CoreCompileInputs.cache
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\bin\Debug\net8.0\MetigatorCA.exe
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\bin\Debug\net8.0\MetigatorCA.deps.json
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\bin\Debug\net8.0\MetigatorCA.runtimeconfig.json
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\bin\Debug\net8.0\MetigatorCA.dll
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\bin\Debug\net8.0\MetigatorCA.pdb
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\obj\Debug\net8.0\MetigatorCA.dll
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\obj\Debug\net8.0\refint\MetigatorCA.dll
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\obj\Debug\net8.0\MetigatorCA.pdb
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\obj\Debug\net8.0\MetigatorCA.genruntimeconfig.cache
+C:\Azero\full-csharp\PackagingAndNuget\MetigatorCA\obj\Debug\net8.0\ref\MetigatorCA.dll
